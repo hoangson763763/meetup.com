@@ -1,0 +1,33 @@
+*{
+	font-family: Arial, sans-serif
+}
+.footer{
+	margin-top:20px;
+	padding: 
+	height:367px;
+	width:100%;
+	background: #0f1721;
+	color: #fff;
+}
+.footer .top-footer{
+	font-size: 32px;
+}
+
+.footer .top-footer p{
+	font-weight: bold;
+	text-align: center;
+}
+
+.footer .center-footer{
+	width: 1060px;
+	margin: auto;
+	height: 100%;
+	padding: 40px 0 20px 0;
+}
+.footer .bot-footer{
+	display: flex;
+	justify-content: space-around;
+}
+.footer .bot-footer .main-footer span{
+	font-size: 28px;
+}
