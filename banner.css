@@ -1,0 +1,39 @@
+.banner{
+	padding: 20px;
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	box-sizing: border-box;
+	border-bottom: 1px solid #ccc;
+}
+.banner img{
+	width: 123px;
+	height: 44px;
+}
+
+.banner .login{
+	flex-grow: 1;
+}
+
+.banner .login ul{
+	justify-content: flex-end;
+	display: flex;
+	list-style: none;
+	
+}
+
+.banner .login ul li{
+	padding: 5px 20px;
+	color: #aaa;
+	font-size: 14px;
+}
+
+.banner .login .start{
+	border-right: 1px solid #ddd;
+	font-weight: bold;
+	color: #00a2c7;
+}
+
+.banner .login ul li:hover{
+	color: #00a2c7;
+}
