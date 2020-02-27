@@ -1,0 +1,71 @@
+*{
+	font-family: Arial, sans-serif
+}
+.group-near .top-group-near{
+	display: flex;
+	justify-content: space-between;
+}
+.group-near .top-group-near .top-left-group-near h3{
+	margin: 0;
+	font-size: 20px;
+}
+.group-near .top-group-near .top-left-group-near p{
+	font-size: 16px;
+	margin-bottom: 20px;
+}
+.group-near .top-group-near .top-right-group-near a{
+	text-decoration: none;
+	color: #00a2c7;
+	font-weight: bold;
+}
+
+.group-near .main-group-near{
+	display: flex;
+	justify-content: space-between;
+}
+
+.group-near .main-group-near a{
+	text-decoration: none;
+}
+
+.group-near .main-group-near a .cate{
+	color: rgba(46,62,72,.6);
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.group-near .main-group-near a h3{
+	color: #2e3e48;
+	font-size: 20px;
+	font-weight: bold;
+	height: 46px;
+}
+
+.group-near .main-group-near a p{
+	color: #555;
+	font-size: 16px;
+}
+
+.group-near .main-group-near a .member{
+	font-size: 14px;
+	color: #777;
+	
+
+}
+
+.group-near .main-group-near .m-mani-group-near{
+	border: 1px solid #ccc;
+	
+	width: 250px;
+	border-radius: 10px;
+}
+.group-near .main-group-near .m-mani-group-near img{
+	width: 250px;
+	height: 164px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+.group-near .main-group-near .m-mani-group-near .content-main-group-near{
+	padding: 20px;
+}
